@@ -1,4 +1,4 @@
-experiments_and_resources/
+experiments/
 __pycache__/
 .*
 !/.gitignore
