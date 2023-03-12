@@ -1,0 +1,40 @@
+Skrosses - Help
+
+[Board Layout]
+  a  b  c
+1   │  │
+  ――+――+――
+2   │  │
+  ――+――+――
+3   │  │
+
+The current player's turn is displayed 
+below the board as:
+"X's turn" if it's X
+"○'s turn" if it's ○
+
+Use standard notion to place on an 
+unoccupied space i.e. "a1"
+
+a1 will place the "X" in the below grid
+if the current turn is X
+  a  b  c
+1  X│  │
+  ――+――+――
+2   │  │
+  ――+――+――
+3   │  │
+
+[Commands]
+"Resign" or "r"
+Forfeits current game to the opponent
+
+"Pass" or "p"
+Skips current turn without placing
+anything
+
+"Help" or "h"
+Displays help
+
+"Exit"
+Exits the game

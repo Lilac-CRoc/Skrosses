@@ -1,0 +1,22 @@
+Example empty board
+
+  a  b  c
+1   ⎮  ⎮
+  ――+――+――
+2   ⎮  ⎮
+  ――+――+――
+3   ⎮  ⎮
+
+Noughts
+○
+
+Crosses
+X
+
+Example filled board
+  a  b  c
+1 X ⎮  ⎮○
+  ――+――+――
+2 ○ ⎮○ ⎮X
+  ――+――+――
+3 X ⎮  ⎮○
