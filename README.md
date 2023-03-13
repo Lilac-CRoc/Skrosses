@@ -1,7 +1,6 @@
 # Skrosses
 Tic Tac Toe in Pygame
 
-
 Requires Python and Pygame installed
 
 ## Command Line (CLI)
@@ -13,7 +12,7 @@ below the board as:
 `○'s turn` if it's ○
 
 Use standard notion to place on an 
-unoccupied space i.e. "a1"
+unoccupied space i.e. `a1`
 
 ![til](./assets/CLI_EXAMPLE.gif) 
 
